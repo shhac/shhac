@@ -17,3 +17,4 @@ From mind to keyboard to web
 
 [![GitHub](./img/social/github-32.png)](https://github.com/shhac)
 [![LinkedIn](./img/social/linked-in-32.png)](https://www.linkedin.com/in/p-somers/)
+[![Stack Overflow](./img/social/stack-overflow-32.png)](https://stackoverflow.com/users/1615483/paul-s)
